@@ -1,7 +1,7 @@
 # Hackura Client ~ The Roblox hacked client for ACTUAL hacking.
 A instant installing roblox hacked client, first major coding project of mine, this is the first roblox hacked client ive seen that works with the WEB VERSION of roblox.
 
-Built in features:
+# Built in features:
 
 Fly - fly up by holding the space button
 
@@ -15,7 +15,7 @@ Avatar Stealer - steal an avatar from someone else by nickname in real-time (eve
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Hacking features:    - only in Microsoft Webstore version - experimental: might not work
+# Hacking features:    - only in Microsoft Webstore version - experimental: might not work
 
 Avatar Spoofer - get any item from the marketshop free ~ Free Korblox ~ Free Headless
 
