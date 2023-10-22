@@ -28,7 +28,7 @@ Player Blind - Blind a player and make them only see the Blue Screen of Death (i
 Server Crash - Attempt to lag out the current experience server
 
 # For the skids
-P.S hi script kiddies, if you steal my program i will find you, i will find your father (which you never could do), and empty a glock into his face and send you the video
+P.S hi script kiddies, if you steal my program i will find you, i will find your father (which you never could do), and empty out a glock into his face and send you the video
 <3 :3
 
 (if you see a skid stealing my work harras them and tell them to kill themselves)
