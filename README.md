@@ -13,7 +13,7 @@ Invisible - Be invisible to other players
 
 Avatar Stealer - steal an avatar from someone else by nickname in real-time (even in the experience)
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Hacking features:    - only in Microsoft Webstore version - experimental: might not work
 
