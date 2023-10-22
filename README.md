@@ -2,16 +2,28 @@
 A instant installing roblox hacked client, first major coding project of mine, this is the first roblox hacked client ive seen that works with the WEB VERSION of roblox.
 
 Built in features:
+
 Fly - fly up by holding the space button
+
 Airjump - jump in the air like your on land
+
 Teleport - click E while looking at a surface to TP to it
+
 Invisible - Be invisible to other players
+
 Avatar Stealer - steal an avatar from someone else by nickname in real-time (even in the experience)
-Experemental features:    - only in Microsoft Webstore version
+
+
+Hacking features:    - only in Microsoft Webstore version - experimental: might not work
+
 Avatar Spoofer - get any item from the marketshop free ~ Free Korblox ~ Free Headless
+
 Player Kick - Force Kick any player of a server ~ this works like 20% of the time (its borderline hacking:))
+
 Player Stalk - Automatically find all games a specified player game and attemp to find their identity (using OSINT databases and apis like idcrawl.com andwebmii.com)
+
 Player Blind - Blind a player and make them only see the Black Screen of Death (it is fake though) - this is done by changing your skin and TPing you to them to block their sight
+
 Server Crash - Attempt to lag out the current experience server
 
 # For the skids
