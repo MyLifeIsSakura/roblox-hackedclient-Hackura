@@ -1,4 +1,4 @@
-# Hackura ~ The Roblox hacked client for ACTUAL hacking.
+# Hackura Client ~ The Roblox hacked client for ACTUAL hacking.
 A instant installing roblox hacked client, first major coding project of mine, this is the first roblox hacked client ive seen that works with the WEB VERSION of roblox.
 
 Built in features:
@@ -18,11 +18,11 @@ Hacking features:    - only in Microsoft Webstore version - experimental: might 
 
 Avatar Spoofer - get any item from the marketshop free ~ Free Korblox ~ Free Headless
 
-Player Kick - Force Kick any player of a server ~ this works like 20% of the time (its borderline hacking:))
+Player Kick - Force Kick any player of a server ~ this works like 20% of the time (what do you expect from a AUTOMATIC, fcking ROBLOX HACKING TOOL)
 
-Player Stalk - Automatically find all games a specified player game and attemp to find their identity (using OSINT databases and apis like idcrawl.com andwebmii.com)
+Player Stalk - Automatically find all games a specified player plays and attempt to find their identity (using OSINT databases and apis like idcrawl.com and webmii.com)
 
-Player Blind - Blind a player and make them only see the Black Screen of Death (it is fake though) - this is done by changing your skin and TPing you to them to block their sight
+Player Blind - Blind a player and make them only see the Blue Screen of Death (it is fake though) - this is done by changing your skin and TPing you to them to block their sight
 
 Server Crash - Attempt to lag out the current experience server
 
