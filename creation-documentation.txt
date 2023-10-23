@@ -1,0 +1,35 @@
+Week 1
+I have made a injector and found the perfect way to
+obfuscate and make undetectable to roblox, that part was 
+particularry a nightmare, to all devs that wanna make 
+a project like this dm me i can help,
+i will soon start developing a FUD exe, vbs, and bat onfuscator
+tool for hackers soon.
+
+Week 2
+I've developed some hacking features, ive figured out how to
+teleport the player, ive implemented it as a feature of its
+own and also thanks to this i added the Player Blind hacking
+feature, for now it just blinds with the BSOD but i will add an
+option to display custom images soon
+
+Week 3
+ive implemented non-hacking stuff because it is a hacked client after all
+ive added:
+Fly
+Airjump
+Avatar Stealer
+
+Week 4
+added hacking features:
+Server Crash
+Avatar Spoofer
+
+Week 5 
+polished off UI and added more advance
+hacking features:
+Player Kick
+Player Stalk
+
+Week 6
+fixed random crashes, glitches, bugs and errors
