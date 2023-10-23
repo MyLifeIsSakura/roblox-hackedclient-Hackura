@@ -32,4 +32,6 @@ Player Kick
 Player Stalk
 
 Week 6
-fixed random crashes, glitches, bugs and errors
+fixed random crashes, glitches, bugs and error
+added last no-hacking feature:
+Invisible
